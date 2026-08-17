@@ -50,9 +50,6 @@ Simulated South African bank operations and customer transaction data (120,000 r
 - `data/South_Africa_Bank_Operations_120k.csv`, `data/South_Africa_Customer_Transactions_120k.csv`: source datasets
 - `charts/`: supporting visualizations
 
-## Author
-Oluwapelumi Abigael Oyesanya, Data Analyst
-[LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · [Email](mailto:abigaeloyesanya@gmail.com)
 
 ## Author
 Oluwapelumi Abigael Oyesanya, Data Analyst
